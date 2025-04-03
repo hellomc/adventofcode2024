@@ -1,3 +1,8 @@
+"""
+Resources:
+Advent of Code 2024 | Day 1 Jackie's Python Solution. CS Jackie. https://www.youtube.com/watch?v=CM70wu-STZU&t=108s
+"""
+
 import math
 
 class Solution():
